@@ -48,7 +48,7 @@ export default function AboutUs() {
             />
             <div className="absolute -bottom-6 -left-6 bg-[#7D1424] text-[#F8F5F0] p-6 rounded-lg max-w-xs">
               <p className="text-lg font-serif">
-                "Vår lidenskap er å finne de beste vinene og dele dem med våre kunder."
+                &ldquo;Vår lidenskap er å finne de beste vinene og dele dem med våre kunder.&rdquo;
               </p>
               <p className="mt-2 font-semibold">- Erik Graawe-Jacobsen</p>
             </div>

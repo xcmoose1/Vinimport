@@ -88,7 +88,7 @@ export default function Partners() {
           className="text-center mt-16"
         >
           <p className="text-[#F8F5F0]/80 italic">
-            "Vi velger våre samarbeidspartnere med omhu for å sikre at vi kun tilbyr viner av høyeste kvalitet til våre kunder."
+            &ldquo;Vi velger våre samarbeidspartnere med omhu for å sikre at vi kun tilbyr viner av høyeste kvalitet til våre kunder.&rdquo;
           </p>
           <p className="text-[#C2A77D] mt-2">— Erik Graawe-Jacobsen, Grunnlegger</p>
         </motion.div>
