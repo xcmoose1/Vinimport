@@ -1,0 +1,9 @@
+This directory will contain all the images for the website:
+
+1. hero-bg.jpg - Hero section background
+2. about-us.jpg - About us section image
+3. producer-1.jpg, producer-2.jpg, producer-3.jpg - Producer images
+4. wine-1.jpg, wine-2.jpg, wine-3.jpg, wine-4.jpg - Wine selection images
+5. article-1.jpg, article-2.jpg, article-3.jpg - Article images
+
+Please add high-quality images that match these filenames.
