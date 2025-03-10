@@ -6,32 +6,32 @@ import Image from 'next/image';
 const partners = [
   {
     name: 'Vinslottet Italia',
-    logo: '/images/partner-1.png',
+    logo: '/images/placeholders/partner-1.svg',
     description: 'Eksklusiv italiensk vinprodusent',
   },
   {
     name: 'Château Bordeaux',
-    logo: '/images/partner-2.png',
+    logo: '/images/placeholders/partner-2.svg',
     description: 'Prestisjetung fransk vingård',
   },
   {
     name: 'Vino Español',
-    logo: '/images/partner-3.png',
+    logo: '/images/placeholders/partner-3.svg',
     description: 'Spansk vinkooperativ',
   },
   {
     name: 'Weingut Schmidt',
-    logo: '/images/partner-4.png',
+    logo: '/images/placeholders/partner-4.svg',
     description: 'Tradisjonell tysk vinprodusent',
   },
   {
     name: 'California Dreams',
-    logo: '/images/partner-5.png',
+    logo: '/images/placeholders/partner-5.svg',
     description: 'Innovativ amerikansk vingård',
   },
   {
     name: 'Stellenbosch Vineyards',
-    logo: '/images/partner-6.png',
+    logo: '/images/placeholders/partner-6.svg',
     description: 'Sør-afrikansk vinprodusent',
   },
 ];

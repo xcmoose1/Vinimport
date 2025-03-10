@@ -1,0 +1,18 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bakgrunn -->
+  <rect width="400" height="300" fill="#F8F5F0"/>
+  
+  <!-- Vinflaske (rødvin) - mindre størrelse -->
+  <rect x="150" y="70" width="70" height="160" rx="5" fill="#7D1424"/>
+  <rect x="160" y="60" width="50" height="15" rx="5" fill="#333"/>
+  
+  <!-- Etikett -->
+  <rect x="155" y="120" width="60" height="70" rx="2" fill="#F8F5F0"/>
+  <text x="185" y="140" font-family="serif" font-size="10" fill="#1C1C1C" text-anchor="middle">Château</text>
+  <text x="185" y="155" font-family="serif" font-size="12" font-weight="bold" fill="#1C1C1C" text-anchor="middle">Margaux</text>
+  <text x="185" y="170" font-family="serif" font-size="10" fill="#1C1C1C" text-anchor="middle">2015</text>
+  <text x="185" y="185" font-family="serif" font-size="8" fill="#7D1424" text-anchor="middle">Bordeaux</text>
+  
+  <!-- Tekst -->
+  <text x="185" y="250" font-family="serif" font-size="14" fill="#1C1C1C" text-anchor="middle">Rødvin - Bordeaux</text>
+</svg>

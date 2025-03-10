@@ -8,28 +8,28 @@ const wines = [
     type: 'Rødvin',
     region: 'Bordeaux',
     description: 'En eksepsjonell årgang med elegante tanniner og kompleks fruktprofil.',
-    image: '/images/wine-1.jpg',
+    image: '/images/placeholders/wines/wine-1.svg',
   },
   {
     name: 'Brunello di Montalcino 2018',
     type: 'Rødvin',
     region: 'Toscana',
     description: 'Kraftig og velbalansert med noter av mørke bær og krydder.',
-    image: '/images/wine-2.jpg',
+    image: '/images/placeholders/wines/wine-2.svg',
   },
   {
     name: 'Chablis Grand Cru 2019',
     type: 'Hvitvin',
     region: 'Burgund',
     description: 'Mineralsk og frisk med elegant struktur og lang ettersmak.',
-    image: '/images/wine-3.jpg',
+    image: '/images/placeholders/wines/wine-3.svg',
   },
   {
     name: 'Champagne Dom Pérignon 2012',
     type: 'Champagne',
     region: 'Champagne',
     description: 'Presis og raffinert med perfekt balanse mellom frukt og syre.',
-    image: '/images/wine-4.jpg',
+    image: '/images/placeholders/wines/wine-4.svg',
   }
 ];
 

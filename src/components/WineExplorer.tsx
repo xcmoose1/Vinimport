@@ -13,13 +13,13 @@ const categories = [
         name: 'Château Margaux 2015',
         region: 'Bordeaux',
         description: 'En eksepsjonell årgang med elegante tanniner og kompleks fruktprofil.',
-        image: '/images/wine-1.jpg',
+        image: '/images/placeholders/wines/wine-1.svg',
       },
       {
         name: 'Brunello di Montalcino 2018',
         region: 'Toscana',
         description: 'Kraftig og velbalansert med noter av mørke bær og krydder.',
-        image: '/images/wine-2.jpg',
+        image: '/images/placeholders/wines/wine-2.svg',
       }
     ]
   },
@@ -32,13 +32,13 @@ const categories = [
         name: 'Chablis Grand Cru 2019',
         region: 'Burgund',
         description: 'Mineralsk og frisk med elegant struktur og lang ettersmak.',
-        image: '/images/wine-3.jpg',
+        image: '/images/placeholders/wines/wine-3.svg',
       },
       {
         name: 'Sancerre Blanc 2021',
         region: 'Loire',
         description: 'Livlig og aromatisk med toner av sitrus og stikkelsbær.',
-        image: '/images/wine-4.jpg',
+        image: '/images/placeholders/wines/wine-4.svg',
       }
     ]
   },
@@ -51,13 +51,13 @@ const categories = [
         name: 'Dom Pérignon 2012',
         region: 'Champagne',
         description: 'Presis og raffinert med perfekt balanse mellom frukt og syre.',
-        image: '/images/wine-5.jpg',
+        image: '/images/placeholders/wines/wine-5.svg',
       },
       {
         name: 'Krug Grande Cuvée',
         region: 'Champagne',
         description: 'Kompleks og fyldig med innslag av brioche og modne frukter.',
-        image: '/images/wine-6.jpg',
+        image: '/images/placeholders/wines/wine-6.svg',
       }
     ]
   },
@@ -70,13 +70,13 @@ const categories = [
         name: 'Frank Cornelissen Munjebel 2020',
         region: 'Sicilia',
         description: 'Naturvin fra Etnas vulkanske jordsmonn med intens mineralitet.',
-        image: '/images/wine-7.jpg',
+        image: '/images/placeholders/wines/wine-7.svg',
       },
       {
         name: 'Gut Oggau Theodora 2021',
         region: 'Burgenland',
         description: 'Biodynamisk hvitvin med frisk syre og kompleks fruktighet.',
-        image: '/images/wine-8.jpg',
+        image: '/images/placeholders/wines/wine-8.svg',
       }
     ]
   },
@@ -89,13 +89,13 @@ const categories = [
         name: 'Nøgne Ø Imperial Stout',
         region: 'Norge',
         description: 'Kraftig og kompleks imperial stout med smaker av kaffe og mørk sjokolade.',
-        image: '/images/beer-1.jpg',
+        image: '/images/placeholders/wines/beer-1.svg',
       },
       {
         name: 'Lervig Paragon 2022',
         region: 'Norge',
         description: 'Prisbelønt barley wine med rik maltkarakter og hint av karamell.',
-        image: '/images/beer-2.jpg',
+        image: '/images/placeholders/wines/beer-2.svg',
       }
     ]
   },
@@ -108,13 +108,13 @@ const categories = [
         name: 'Cognac Tesseron Lot N°29 XO',
         region: 'Frankrike',
         description: 'Eksepsjonell cognac med lang lagring og kompleks aromaprofil.',
-        image: '/images/spirit-1.jpg',
+        image: '/images/placeholders/wines/spirit-1.svg',
       },
       {
         name: 'Macallan 18 Years Sherry Oak',
         region: 'Skottland',
         description: 'Elegant single malt whisky med rike smaker av tørket frukt og krydder.',
-        image: '/images/spirit-2.jpg',
+        image: '/images/placeholders/wines/spirit-2.svg',
       }
     ]
   }

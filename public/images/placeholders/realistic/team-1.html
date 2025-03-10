@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Team Member 1 Placeholder</title>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      width: 192px;
+      height: 192px;
+      overflow: hidden;
+      border-radius: 50%;
+      background-color: #7D1424;
+    }
+    .placeholder {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      font-family: Arial, sans-serif;
+      background: radial-gradient(circle, #7D1424 0%, #5D0E1A 100%);
+      position: relative;
+    }
+    .placeholder::after {
+      content: "";
+      position: absolute;
+      top: 20%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 60%;
+      height: 40%;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 50% 50% 0 0;
+    }
+    .name {
+      font-size: 18px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      z-index: 1;
+    }
+    .role {
+      font-size: 14px;
+      opacity: 0.8;
+      z-index: 1;
+    }
+    .silhouette {
+      position: absolute;
+      width: 60%;
+      height: 60%;
+      background: rgba(255, 255, 255, 0.2);
+      border-radius: 50% 50% 0 0;
+      bottom: 15%;
+    }
+    .head {
+      position: absolute;
+      width: 30%;
+      height: 30%;
+      background: rgba(255, 255, 255, 0.3);
+      border-radius: 50%;
+      top: 20%;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  </style>
+</head>
+<body>
+  <div class="placeholder">
+    <div class="silhouette"></div>
+    <div class="head"></div>
+    <div class="name">Erik</div>
+    <div class="role">Grunnlegger</div>
+  </div>
+</body>
+</html>

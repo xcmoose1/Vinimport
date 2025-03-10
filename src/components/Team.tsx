@@ -7,25 +7,25 @@ const team = [
   {
     name: 'Erik Graawe-Jacobsen',
     role: 'Grunnlegger og Daglig Leder',
-    image: '/images/team-1.jpg',
+    image: '/images/placeholders/team-1.svg',
     description: 'Med over 30 års erfaring i vinbransjen og en lidenskap for kvalitetsviner.',
   },
   {
     name: 'Maria Graawe-Jacobsen',
     role: 'Vinekspert og Innkjøpsansvarlig',
-    image: '/images/team-2.jpg',
+    image: '/images/placeholders/team-2.svg',
     description: 'Utdannet sommelier med spesialisering i europeiske viner.',
   },
   {
     name: 'Anders Berg',
     role: 'Salgssjef',
-    image: '/images/team-3.jpg',
+    image: '/images/placeholders/team-3.svg',
     description: 'Ekspert på markedsutvikling og kundeforhold.',
   },
   {
     name: 'Sofia Hansen',
     role: 'Vinekspert',
-    image: '/images/team-4.jpg',
+    image: '/images/placeholders/team-4.svg',
     description: 'Spesialist på naturviner og økologisk vinproduksjon.',
   },
 ];
